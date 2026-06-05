@@ -1,0 +1,14 @@
+{
+  "name": "docker-github-actions",
+  "version": "1.0.0",
+  "description": "Ejemplo de configuracion Docker con GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
